@@ -1,0 +1,1 @@
+{"name":"Local: C - Typical Stairs","url":"d:\\code\\xcpc\\ac\\prac\\C - Typical Stairs.cpp","tests":[{"id":1741076231491,"input":"100 5\n1\n23\n45\n67\n89\n","output":"608200469\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\ac\\prac\\C - Typical Stairs.cpp","group":"local","local":true}

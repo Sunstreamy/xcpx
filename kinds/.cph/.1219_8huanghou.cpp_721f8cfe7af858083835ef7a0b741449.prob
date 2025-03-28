@@ -1,0 +1,1 @@
+{"name":"Local: 1219_8huanghou","url":"d:\\code\\xcpc\\lg\\1219_8huanghou.cpp","tests":[{"id":1739640843821,"input":"6","output":"2 4 6 1 3 5\n3 6 2 5 1 4\n4 1 5 2 6 3\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\lg\\1219_8huanghou.cpp","group":"local","local":true}

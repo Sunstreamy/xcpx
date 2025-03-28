@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "valarray": "cpp"
+    },
+    "files.autoSave": "afterDelay"
+}

@@ -1,0 +1,1 @@
+{"name":"Local: 1177","url":"d:\\code\\xcpc\\lg\\1177._duisort.cpp","tests":[{"id":1739713630829,"input":"5\n4 2 4 5 1","output":"1 2 4 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\lg\\1177._duisort.cpp","group":"local","local":true}

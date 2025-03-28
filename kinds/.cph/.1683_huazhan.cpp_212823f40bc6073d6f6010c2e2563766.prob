@@ -1,0 +1,1 @@
+{"name":"Local: 1683_huazhan","url":"d:\\code\\xcpc\\lg\\1683_huazhan.cpp","tests":[{"id":1737864337975,"input":"12 5\n2 5 3 1 3 2 4 1 1 5 4 3","output":"2 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\lg\\1683_huazhan.cpp","group":"local","local":true}

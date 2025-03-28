@@ -1,0 +1,1 @@
+{"name":"Local: 01chuan","url":"d:\\code\\xcpc\\pat\\digui_prac\\01chuan.cpp","tests":[{"id":1738432671459,"input":"3","output":"000\n001\n010\n011\n100\n101\n110\n111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\pat\\digui_prac\\01chuan.cpp","group":"local","local":true}

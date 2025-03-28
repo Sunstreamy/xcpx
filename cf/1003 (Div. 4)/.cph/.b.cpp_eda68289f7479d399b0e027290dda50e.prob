@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\code\\xcpc\\cf\\1003_div4\\b.cpp","tests":[{"id":1739112489766,"input":"4\nbaa\nskibidus\ncc\nohio\n","output":"1\n8\n1\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\cf\\1003_div4\\b.cpp","group":"local","local":true}

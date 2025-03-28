@@ -1,0 +1,1 @@
+{"name":"Local: bahe","url":"d:\\code\\xcpc\\lqb\\bahe.cpp","tests":[{"id":1741607212240,"input":"5\n10 9 8 12 14","output":"1"},{"id":1741615266194,"input":"3\n99 1 99","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\lqb\\bahe.cpp","group":"local","local":true}

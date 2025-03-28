@@ -1,0 +1,1 @@
+{"name":"Local: 3378_dui","url":"d:\\code\\xcpc\\lg\\3378_dui.cpp","tests":[{"id":1739713384967,"input":"5\n1 2\n1 5\n2\n3\n2\n","output":"2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\lg\\3378_dui.cpp","group":"local","local":true}

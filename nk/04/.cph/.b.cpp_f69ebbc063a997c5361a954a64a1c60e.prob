@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\code\\xcpc\\nk\\04\\b.cpp","tests":[{"id":1738792868584,"input":"4\n1\n0\n4\n??01\n5\n?????\n10\n010??1101?","output":"1\n8\n80\n40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\xcpc\\nk\\04\\b.cpp","group":"local","local":true}
